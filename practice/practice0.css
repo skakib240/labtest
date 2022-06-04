@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.allign {
+  padding: 2rem;
+  background-color: yellow;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.various {
+  font-size: 5rem;
+  text-shadow: tomato 1px 1px;
+  text-align: justify;
+  text-transform: capitalize;
+}
+
+.section0 {
+  margin: 30px 10px 30px 10px;
+}
+
+.border {
+  border: 3px dotted green;
+  padding-bottom: 5px;
+}
+
+.gradient0 {
+  height: 50vh;
+  width: 100vw;
+  background: #251cba;
+  background: -webkit-gradient(linear, left top, right top, from(#251cba), color-stop(28%, #442a1c), to(#00d4ff));
+  background: linear-gradient(90deg, #251cba 0%, #442a1c 28%, #00d4ff 100%);
+}
+/*# sourceMappingURL=practice0.css.map */

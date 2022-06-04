@@ -1,0 +1,36 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.allign
+{   
+    padding: 2rem;
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+
+    
+}
+.various{
+    font-size: 5rem;
+    text-shadow: tomato 1px 1px;
+    text-align: justify;
+    text-transform: capitalize;
+    
+}
+.section0{
+    margin: 30px 10px 30px 10px;
+
+}
+.border{
+    border: 3px dotted green;
+    padding-bottom: 5px;
+}
+.gradient0
+{   
+    height: 50vh;
+    width: 100vw;
+    background: rgb(37,28,186);
+background: linear-gradient(90deg, rgba(37,28,186,1) 0%, rgba(68,42,28,1) 28%, rgba(0,212,255,1) 100%);
+}

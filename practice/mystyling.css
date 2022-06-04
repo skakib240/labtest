@@ -1,0 +1,62 @@
+.tapu h1 {
+  color: blue;
+}
+
+.tapu p {
+  color: hotpink;
+}
+
+.tapu p kochu {
+  color: lightgreen;
+}
+
+shalarpuut {
+  color: lime;
+  font-size: 4rem;
+}
+
+#sec1 {
+  background-color: seagreen;
+}
+
+#sec1 p {
+  color: tomato;
+}
+
+.style1 {
+  color: #240b75;
+}
+
+.style2 {
+  font-size: 3rem;
+}
+
+div > p {
+  background-color: yellow;
+  text-align: center;
+}
+
+#para {
+  font-style: italic;
+}
+
+.center {
+  text-align: center;
+}
+
+* {
+  background-color: beige;
+}
+
+section ~ p {
+  color: brown;
+}
+
+section > p {
+  color: dimgray;
+}
+
+.style3 {
+  background-color: #6db3f2;
+}
+/*# sourceMappingURL=mystyling.css.map */
